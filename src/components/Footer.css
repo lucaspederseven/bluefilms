@@ -1,0 +1,21 @@
+#footer {
+    display: flex;
+    padding: 3rem 2rem;
+    background-color: #6B8A94;
+}
+
+#footer h2 {
+    color: white;
+    padding: .3rem;
+    font-size:1.5rem;
+    display: flex;
+    align-items: center;
+}
+#footer p {
+    color: white;
+    padding: .3rem;
+    font-size:0.8rem;
+    font-weight: lighter;
+    font-style: italic;
+}
+
